@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-oid",
+  "name": "@doop/oid",
   "version": "1.0.0",
   "description": "A ObjectId service for the Doop framework",
   "repository": {
